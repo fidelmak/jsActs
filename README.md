@@ -1,2 +1,2 @@
 # jsActs
-just playing with basics of javascript
+just playing with basics of solidity and JavaScript
